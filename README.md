@@ -1,9 +1,14 @@
-# Accidents-Predictor
+🚦 Accident Prediction System
 
-A system built to analyze the accidents happining...
+A machine learning system designed to analyze and predict the likelihood of road accidents based on historical and environmental data.
 
-Maintaining a log :
+-----------------------------------------------
 
-1) Used SVM but I failed miserably....
+📘 Overview
 
-2) Changed the model to LightGBM...
+This project focuses on building an Accident Prediction Model that helps identify factors leading to road accidents and predict the probability of future occurrences.
+
+The system leverages advanced machine learning algorithms and structured data preprocessing to deliver accurate and efficient predictions.
+
+-----------------------------------------------
+
