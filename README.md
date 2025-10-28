@@ -43,8 +43,11 @@ Benefits achieved:
 
 ## 📊 Model Performance
 Metric	Score
+
 Mean Absolute Error (MAE)	0.0437
+
 Root Mean Squared Error (RMSE)	0.0562
+
 R² Score	0.8854
 
 -----------------------------------------------------------------------------------
@@ -63,4 +66,39 @@ scikit-learn — preprocessing and evaluation
 
 lightgbm — machine learning model
 
-Environment: Jupyter Notebook
+Environment: VS Code
+
+---------------------------------------------------------------------------------------
+
+## 🗂️ Project Workflow
+
+Data Collection & Cleaning
+
+Loaded dataset and handled missing or inconsistent values.
+
+Feature Engineering
+
+Encoded categorical variables and normalized numerical features.
+
+Model Training
+
+Trained using LightGBM with tuned hyperparameters.
+
+Model Evaluation
+
+Compared results across multiple metrics.
+
+Prediction & Submission
+
+Generated test predictions and formatted output in the required submission file.
+
+-----------------------------------------------------------
+
+## 🚀 Key Learnings
+
+Gained deeper understanding of model tuning, cross-validation, and feature preprocessing.
+
+Experienced firsthand how model choice impacts performance — switching from SVM to LightGBM was a game changer.
+
+Learned effective evaluation through metrics like RMSE, MAE, and R² Score.
+
